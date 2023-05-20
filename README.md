@@ -35,7 +35,7 @@ chmod +x mistake_pass.py
 
 ## Usage
 ```
-python3 mistake_pass.py <password1> <password3> …. <passwordn>
+python3 mistake_pass.py <password1> <password2> …. <passwordn>
 ```
 
 
