@@ -40,6 +40,9 @@ python3 mistake_pass.py <password1> <password3> …. <passwordn>
 
 
 ## Examples
+* Use single or double quotes to send he password literally.
+
 ![example1](https://github.com/0KvinayK0/MistakePass/assets/126001522/453da9dc-0e08-4106-906d-529051b039ad)
+
 ![example2](https://github.com/0KvinayK0/MistakePass/assets/126001522/64940f35-ff0d-404c-88eb-755076a1ef30)
 
