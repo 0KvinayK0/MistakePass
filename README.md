@@ -1,6 +1,6 @@
 # Mistake Pass - Not a yet another password checker
 
-_This script written in Python, is a better alternative to using the haveibeenpwned website directly. The script only sends a portion of your hashed password to the API, and vice versa, making it very difficult for someone to sniff the traffic and guess your password._
+_This script written in Python, is a better alternative to using the haveibeenpwned website directly. The script only sends a portion of your hashed password to the API, and vice versa, making it very difficult for someone to sniff the traffic and guess your password (oversimplified)_
 
 _Password leaked? Oops, this is definitely a good time to change your password._
 
@@ -34,6 +34,9 @@ chmod +x mistake_pass.py
 
 
 ## Usage
+
+* Ensure you have Python3 installed on your system.
+
 ```
 python3 mistake_pass.py <password1> <password2> …. <passwordn>
 ```
